@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mjlindskog/book_review.git"
+    "url": "git+https://github.com/twheeler92/book_review"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mjlindskog/book_review/issues"
+    "url": "https://github.com/twheeler92/book_review/issues"
   },
-  "homepage": "https://github.com/mjlindskog/book_review#readme",
+  "homepage": "https://github.com/twheeler92/book_review#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
